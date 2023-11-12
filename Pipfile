@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 kivy = {extras = ["full"], version = "*"}
 kivy-examples = "*"
+kivymd = "*"
+python-for-android = "*"
+buildozer = "*"
 
 [dev-packages]
 
