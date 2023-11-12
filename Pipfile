@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+kivy = {extras = ["full"], version = "*"}
+kivy-examples = "*"
 
 [dev-packages]
 
