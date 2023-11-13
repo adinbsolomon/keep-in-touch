@@ -9,6 +9,7 @@ kivy-examples = "*"
 kivymd = "*"
 python-for-android = "*"
 buildozer = "*"
+cython = "==0.29.33"
 
 [dev-packages]
 
